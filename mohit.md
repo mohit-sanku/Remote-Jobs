@@ -28,4 +28,6 @@
 
 * *Developers should be well-versed in web design and using software such as Photoshop and Illustrator to create graphics and themed layouts.*
 
-By Mohit.S                                                                                                                     B.Tech First Year, IT-2, GVPCE(A).
+By Mohit.S
+
+B.Tech First Year, IT-2, GVPCE(A).
